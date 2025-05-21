@@ -1,0 +1,57 @@
+🏏 T20 World Cup 2022 Chatbot (type 'quit' to exit)
+
+Your question: how many matches india won in the tournamnent
+
+Bot: Based on the provided context, India won the following matches in the 2022 T20 World Cup:
+
+1. **India vs Pakistan** on **Oct 23, 2022** (won by 4 wickets)
+2. **India vs Netherlands** on **Oct 27, 2022** (won by 56 runs)
+3. **Bangladesh vs India** on **Nov 2, 2022** (won by 5 runs)
+4. **India vs Zimbabwe** on **Nov 6, 2022** (won by 71 runs)
+
+**Total matches won by India: 4**
+
+Your question: how much virat scored in each match
+
+Bot: Based on the provided context, here's how much Virat Kohli scored in each match:
+
+1. **India vs Bangladesh**: Scored 64 runs in 44 balls (SR: 145.45), Team: India, Date: Not mentioned
+2. **India vs Zimbabwe**: Scored 26 runs in 25 balls (SR: 104.00), Team: India, Date: Not mentioned
+3. **Pakistan vs India**: Scored 82 runs in 53 balls (SR: 154.71), Team: India, Date: Not mentioned
+4. **India vs South Africa**: Scored 12 runs in 11 balls (SR: 109.09), Team: India, Date: Not mentioned
+5. **India vs Netherlands**: Scored 62 runs in 44 balls (SR: 140.90), Team: India, Date: Not mentioned
+6. **India vs England**: Scored 50 runs in 40 balls (SR: 125.00), Team: India, Date: Not mentioned
+
+Note: The date for each match is not mentioned in the provided context.
+
+Your question: who won Australia vs England
+
+Bot: The match between Australia and England was abandoned, with no winner declared. The match took place on October 28, 2022, at Melbourne.
+
+Your question: who won Bangladesh vs South Africa
+
+Bot: Based on the provided context, the answer to the question "who won Bangladesh vs South Africa" is:
+
+South Africa won by 104 runs against Bangladesh on Oct 27, 2022, at Sydney. 
+
+This information is found in the first document of the context, which explicitly states the match result, date, and ground. 
+
+**Answer Details:**
+- **Winner:** South Africa
+- **Margin:** 104 runs
+- **Teams:** Bangladesh vs South Africa
+- **Date:** Oct 27, 2022
+- **Ground:** Sydney
+
+Your question: which matches took place on Sydney
+
+Bot: Based on the provided context, the matches that took place in Sydney are:
+
+1. **Australia vs New Zealand** - October 22, 2022 (New Zealand won by 89 runs)
+2. **Bangladesh vs South Africa** - October 27, 2022 (South Africa won by 104 runs)
+3. **New Zealand vs Sri Lanka** - October 29, 2022 (New Zealand won by 65 runs)
+4. **New Zealand vs Pakistan** - November 9, 2022 (Pakistan won by 7 wickets)
+
+These are the matches where the ground is explicitly mentioned as "Sydney" in the metadata.
+
+Your question: quit
