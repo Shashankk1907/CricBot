@@ -1,4 +1,4 @@
-# CricBot - T20 World Cup 2022 Chatbot
+# CricBot - Chatbot by RAG
 
 This project is a command-line chatbot that answers questions about the 2022 T20 World Cup cricket tournament using a Retrieval-Augmented Generation (RAG) approach. It leverages LangChain, HuggingFace embeddings, ChromaDB, and an LLM served via OpenRouter to provide detailed and specific answers based on tournament data.
 
